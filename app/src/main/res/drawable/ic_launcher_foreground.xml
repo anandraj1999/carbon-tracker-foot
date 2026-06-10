@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Leaf Base shadow/accent -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,18 C70,18 83,31 83,47 C83,63 54,90 54,90 C54,90 25,63 25,47 C25,31 38,18 54,18 Z" />
+    <!-- Leaf inner detail -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,24 C66,24 76,34 76,47 C76,60 54,82 54,82 C54,82 32,60 32,47 C32,34 42,24 54,24 Z" />
+    <!-- Leaf veins -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M54,30 L54,76 M54,46 L64,38 M54,58 L64,50 M54,46 L44,38 M54,58 L44,50" />
+</vector>
